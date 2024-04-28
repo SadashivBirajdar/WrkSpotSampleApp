@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WrkSpotSampleApp</string>
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="population">Population: </string>
+    <string name="currency">Currency: </string>
+    <string name="capital">Capital: </string>
+    <string name="toolbar_title">Wrkspot</string>
+
+    <string name="search_country">Search by Country</string>
+    <string name="filter_by_population">Filter by population</string>
+    <string name="less_than_1_million">Less than 1 Million</string>
+    <string name="less_than_5_million">Less than 5 Million</string>
+    <string name="less_than_10_million">Less than 10 Million</string>
+    <string name="clear_all">Clear All</string>
+</resources>
